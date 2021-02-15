@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=fechaInicio
+comment0.target=Archivo(java.time.LocalDate)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Archivo\r\n
+comment1.params=usuario
+comment1.target=int\ verificar(Usuario)
+comment2.params=directorio\ name
+comment2.target=boolean\ accept(java.io.File,\ java.lang.String)
+comment3.params=fechaArchivo
+comment3.target=void\ compararFechas(java.time.LocalDate)
+comment4.params=
+comment4.target=java.lang.String\ getFecha()
+numComments=5

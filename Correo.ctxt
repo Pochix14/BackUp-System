@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Correo()
+comment1.params=
+comment1.target=javax.mail.PasswordAuthentication\ getPasswordAuthentication()
+comment2.params=destinatario\ pdfMalos\ pdfBuenos\ historial\ mensaje
+comment2.target=void\ enviar(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+numComments=3

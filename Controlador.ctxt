@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=inicio\ pFin
+comment0.target=Controlador(java.time.LocalDate,\ java.time.LocalDate)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Controlador\r\n
+comment1.params=fechaSemana
+comment1.target=void\ verificarRespaldos(int)
+comment2.params=usuario
+comment2.target=void\ asignarUsuario(Usuario)
+comment3.params=
+comment3.target=void\ verEjecucion()
+comment4.params=
+comment4.target=void\ verificarListaMalos()
+comment5.params=
+comment5.target=void\ imprimirUsuarios()
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7
